@@ -2,7 +2,7 @@
 ## Descrição do projeto
 Projeto realizado como Desafio do Módulo 02 do curso de Desenvolvimento de Software com foco em Back-end da Cubos Academy, com o objetivo de nos fornecer a prática na criação do zero de uma API REST.
 
-A API RESTful do Sistema Bancário foi desenvolvida para realizar operações bancárias e cadastrais de um Banco Digital, com imput dos dados através do Body, Query e da URL no framewrok Insomnia.
+A API RESTful do Sistema Bancário foi desenvolvida para realizar operações bancárias e cadastrais de um Banco Digital, com imput dos dados através do Body, Query e da URL no framework Insomnia.
 
 ## Funcionalidades
 * Criar conta bancária
