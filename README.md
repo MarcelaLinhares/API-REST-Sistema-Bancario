@@ -1,10 +1,10 @@
 ># API-REST-Sistema-Bancario
-## Descrição do projeto
+## 📂 Descrição do projeto
 Projeto realizado como Desafio do Módulo 02 do curso de Desenvolvimento de Software com foco em Back-end da Cubos Academy, com o objetivo de nos fornecer a prática na criação do zero de uma API REST.
 
 A API RESTful do Sistema Bancário foi desenvolvida para realizar operações bancárias e cadastrais de um Banco Digital, com imput dos dados através do Body, Query e da URL no framework Insomnia.
 
-## Funcionalidades
+## ⚙ Funcionalidades
 * Criar conta bancária
 
 * Listar contas bancárias
@@ -23,7 +23,7 @@ A API RESTful do Sistema Bancário foi desenvolvida para realizar operações ba
 
 * Emitir extrato bancário
 
-## Linguagens e Ferramentas utilizadas
+## 🛠 Linguagens e Ferramentas utilizadas
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
