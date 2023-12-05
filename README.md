@@ -30,7 +30,7 @@ A API RESTful do Sistema Bancário foi desenvolvida para realizar operações ba
 ![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-## Executando o projeto
+## 📤 Executando o projeto
 
 Para começar a utilizar a API REST do Sistema Bancário na sua máquina, siga estas etapas:
 
@@ -62,7 +62,7 @@ Para realizar as requisições com os verbos GET, POST, PUT, DELETE use o framew
 Abra o insomnia e use o caminho:
 http://localhost:3000/
 
-## Endpoints no Insomnia
+## 📑 Endpoints no Insomnia
 - [ ] Criar Conta Bancária - **POST**
 ```javascript
 http://localhost:3000/contas
@@ -173,13 +173,13 @@ http://localhost:3000/contas/extrato?numero_conta=1&senha=1234
 
 <img src="./imgsReadme/img9_Emitir extrato.png" >
 
-## Contribua com o Projeto
+## 🤝 Contribua com o Projeto
 
 - [ ] Realize o Fork
 - [ ] Faça as modificações
 - [ ] Realize o Pull Request (PR)
 
-## Desenvolvedores
+## 👩‍💻 Desenvolvedores
 
 <table>
   <tr>
